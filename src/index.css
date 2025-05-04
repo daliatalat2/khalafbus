@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles for better cross-browser compatibility */
+* {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Smooth scrolling for modern browsers */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better touch handling for mobile */
+@media (hover: none) {
+  button:active,
+  a:active {
+    opacity: 0.7;
+  }
+}
+
+/* Prevent text size adjustment on orientation change */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Fix for iOS input zoom */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="tel"],
+textarea {
+  font-size: 16px;
+}
+
+/* Improve button tap targets on mobile */
+button, 
+a {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Fix for mobile Safari's 100vh issue */
+.min-h-screen {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+
+/* RTL support improvements */
+[dir="rtl"] .slick-slide {
+  float: right;
+}
+
+[dir="rtl"] .slick-prev {
+  right: auto;
+  left: 25px;
+}
+
+[dir="rtl"] .slick-next {
+  right: 25px;
+  left: auto;
+}

@@ -1,0 +1,466 @@
+{
+  "afterSales": {
+    "title": "After Sales Service",
+    "subtitle": "Comprehensive support and maintenance for your vehicle"
+  },
+  "facilities": {
+    "title": "Manufacturing & Service Facilities",
+    "subtitle": "World-class facilities equipped with cutting-edge technology"
+  },
+  "partners": {
+    "title": "Success Partners",
+    "subtitle": "Trusted by leading organizations worldwide"
+  },
+  "hero": {
+    "title": "Leading the Future of Transportation",
+    "subtitle": "Innovative and reliable minibus solutions for every need"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "afterSales": "After Sales",
+    "media": "Media",
+    "requestQuote": "Request Quote",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Discover our range of high-quality minibuses",
+    "description": "Experience high performance and modern design with our minibus, specially designed to meet modern transportation needs. This minibus combines powerful performance, superior comfort, and attractive design that meets the requirements of companies, institutions, and individuals alike.",
+    "specifications": "Specifications",
+    "viewDetails": "View Details",
+    "downloadBrochure": "Download Brochure",
+    "requestQuote": "Request Quote",
+    "contactSales": "Contact Sales",
+    "features": {
+      "title": "Features",
+      "optional": "Optional Accessories"
+    },
+    "cityBus": {
+      "title": "City Minibus",
+      "description": "Perfect for urban transportation with optimal passenger capacity",
+      "specs": {
+        "length": "Length: 7.5 meters",
+        "width": "Width: 2.3 meters",
+        "height": "Height: 2.8 meters",
+        "seats": "Seats: 19 passengers",
+        "engine": "Engine: 3.0L Turbo Diesel",
+        "transmission": "Transmission: 6-speed automatic"
+      },
+      "features": [
+        "Central Air Conditioning",
+        "Electric Doors",
+        "ABS Braking System",
+        "Air Suspension",
+        "Tire Pressure Monitoring",
+        "Reverse Camera",
+        "GPS Navigation",
+        "Fire Alarm System"
+      ],
+      "accessories": [
+        "Reclining Seats",
+        "LCD Displays",
+        "Premium Sound System",
+        "DVD Player",
+        "Mini Refrigerator",
+        "USB Ports per Seat",
+        "LED Interior Lighting",
+        "Electric Window Curtains"
+      ]
+    },
+    "schoolBus": {
+      "title": "School Bus",
+      "description": "Safe and reliable transportation for students",
+      "specs": {
+        "length": "Length: 8.0 meters",
+        "width": "Width: 2.4 meters",
+        "height": "Height: 3.0 meters",
+        "seats": "Seats: 25 passengers",
+        "engine": "Engine: 4.0L Diesel",
+        "transmission": "Transmission: 6-speed automatic"
+      },
+      "features": [
+        "Central Air Conditioning",
+        "Electric Doors with Safety System",
+        "ABS Braking System",
+        "GPS Tracking System",
+        "Interior Surveillance Cameras",
+        "Emergency Alert System",
+        "External Warning Lights",
+        "Intercom System"
+      ],
+      "accessories": [
+        "First Aid Kits",
+        "Fire Extinguisher",
+        "Seatbelts for Each Seat",
+        "Comfortable Seating",
+        "LED Interior Lighting",
+        "Sound System",
+        "Digital Information Board",
+        "Overhead Storage Racks"
+      ]
+    },
+    "touristBus": {
+      "title": "Tourist Minibus",
+      "description": "Comfortable and luxurious for tourism and private hire",
+      "specs": {
+        "length": "Length: 7.8 meters",
+        "width": "Width: 2.3 meters",
+        "height": "Height: 2.9 meters",
+        "seats": "Seats: 16 passengers",
+        "engine": "Engine: 3.0L Turbo Diesel",
+        "transmission": "Transmission: 8-speed automatic"
+      },
+      "features": [
+        "Premium Air Conditioning",
+        "Luxury Electric Doors",
+        "Advanced Air Suspension",
+        "Integrated Entertainment System",
+        "Ambient Lighting",
+        "Surround Sound System",
+        "Built-in WiFi",
+        "Advanced Navigation System"
+      ],
+      "accessories": [
+        "Luxury Leather Reclining Seats",
+        "Individual LCD Screens",
+        "Large Refrigerator",
+        "Folding Tables",
+        "Multi-region DVD Player",
+        "Karaoke System",
+        "Coffee Machine",
+        "Chilled Beverage Cabinet"
+      ]
+    },
+    "electricBus": {
+      "title": "Electric Minibus",
+      "description": "Zero-emission electric minibus for sustainable urban mobility",
+      "specs": {
+        "length": "Length: 7.6 meters",
+        "width": "Width: 2.3 meters",
+        "height": "Height: 2.8 meters",
+        "seats": "Seats: 18 passengers",
+        "range": "Range: 300 km",
+        "charging": "Fast Charging: 2 hours"
+      },
+      "features": [
+        "Zero Emissions",
+        "Smart Battery Management",
+        "Regenerative Braking",
+        "Silent Operation",
+        "Climate Control System",
+        "Smart Energy Display",
+        "Range Optimizer",
+        "Eco-driving Assistant"
+      ],
+      "accessories": [
+        "Solar Roof Panels",
+        "Smart Climate Control",
+        "Battery Health Monitor",
+        "Wireless Charging Pads",
+        "Energy Usage Analytics",
+        "Smart Route Planner",
+        "LED Ambient Lighting",
+        "Digital Dashboard"
+      ]
+    },
+    "vipBus": {
+      "title": "VIP Executive Minibus",
+      "description": "Ultimate luxury and comfort for executive transportation",
+      "specs": {
+        "length": "Length: 8.0 meters",
+        "width": "Width: 2.4 meters",
+        "height": "Height: 2.9 meters",
+        "seats": "Seats: 12 passengers",
+        "engine": "Engine: 3.0L Twin-Turbo Diesel",
+        "transmission": "Transmission: 8-speed automatic"
+      },
+      "features": [
+        "Executive Leather Seats",
+        "Individual Climate Control",
+        "Conference Setup",
+        "Premium Sound Isolation",
+        "Panoramic Glass Roof",
+        "Smart Privacy Glass",
+        "Executive Work Tables",
+        "Satellite Communication"
+      ],
+      "accessories": [
+        "Mini Bar",
+        "4K Entertainment System",
+        "Video Conference Setup",
+        "Mobile Office Equipment",
+        "Premium Coffee Machine",
+        "Champagne Cooler",
+        "Massage Seats",
+        "Personal Storage Safes"
+      ]
+    },
+    "multiPurposeBus": {
+      "title": "Multi-Purpose Minibus",
+      "description": "Versatile minibus with configurable layout for various uses",
+      "specs": {
+        "length": "Length: 7.7 meters",
+        "width": "Width: 2.3 meters",
+        "height": "Height: 2.8 meters",
+        "seats": "Seats: 15-22 passengers",
+        "engine": "Engine: 3.5L Diesel",
+        "transmission": "Transmission: 6-speed automatic"
+      },
+      "features": [
+        "Modular Seating System",
+        "Quick-change Floor Rails",
+        "Dual Side Doors",
+        "Flexible Storage Space",
+        "Multi-zone Climate Control",
+        "Configurable Interior",
+        "Loading Ramp",
+        "Roof Rack System"
+      ],
+      "accessories": [
+        "Cargo Barriers",
+        "Wheelchair Lift",
+        "Bike Racks",
+        "Luggage Racks",
+        "Tool Storage",
+        "Work Benches",
+        "Partition Walls",
+        "Equipment Mounts"
+      ]
+    },
+    "specs": {
+      "length": "Length",
+      "width": "Width",
+      "height": "Height",
+      "seats": "Seats",
+      "engine": "Engine",
+      "transmission": "Transmission"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a comprehensive range of services to meet your needs",
+    "learnMore": "Learn More",
+    "maintenance": {
+      "title": "Maintenance Services",
+      "description": "Comprehensive and reliable maintenance for your vehicle",
+      "features": [
+        "Complete Periodic Inspection",
+        "Preventive Maintenance",
+        "Certified Repairs",
+        "Genuine Parts"
+      ]
+    },
+    "modifications": {
+      "title": "Modifications & Customization",
+      "description": "Custom solutions to meet your specific requirements",
+      "features": [
+        "Interior Modifications",
+        "Technical Updates",
+        "Custom Specifications",
+        "Performance Upgrades"
+      ]
+    },
+    "warranty": {
+      "title": "Warranty Services",
+      "description": "Comprehensive warranty coverage for your peace of mind",
+      "features": [
+        "Full Coverage",
+        "Parts Coverage",
+        "Technical Support",
+        "Emergency Service"
+      ]
+    },
+    "training": {
+      "title": "Training & Qualification",
+      "description": "Specialized training programs for drivers and technicians",
+      "features": [
+        "Driver Training",
+        "Technician Certification",
+        "Specialized Courses",
+        "Certified Programs"
+      ]
+    },
+    "fleet": {
+      "title": "Fleet Management",
+      "description": "Integrated solutions for vehicle fleet management",
+      "features": [
+        "Fleet Maintenance",
+        "Vehicle Tracking",
+        "Performance Reports",
+        "Technical Support"
+      ]
+    },
+    "parts": {
+      "title": "Spare Parts",
+      "description": "Genuine parts with fast delivery service",
+      "features": [
+        "Genuine Parts",
+        "Quick Delivery",
+        "Quality Guarantee",
+        "Competitive Prices"
+      ]
+    },
+    "emergency": {
+      "title": "Emergency Service",
+      "subtitle": "Available 24/7 to assist you",
+      "contact": "Contact Us",
+      "schedule": "Schedule Service"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Leading the future of transportation with innovation and excellence",
+    "stats": {
+      "experience": "Years Experience",
+      "vehicles": "Vehicles Manufactured",
+      "countries": "Countries Served",
+      "support": "24/7 Support"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide innovative and sustainable transportation solutions that exceed customer expectations while maintaining the highest standards of quality, safety, and reliability"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the global leader in minibus manufacturing, setting industry standards for innovation, sustainability, and customer satisfaction"
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality First",
+      "qualityDesc": "We maintain the highest standards in manufacturing and service delivery",
+      "innovation": "Innovation",
+      "innovationDesc": "Continuously improving and adopting new technologies",
+      "excellence": "Excellence",
+      "excellenceDesc": "Striving for excellence in every aspect of our operations"
+    },
+    "journey": {
+      "title": "Our Journey",
+      "founded": "Company Founded",
+      "foundedDesc": "Started with a vision to revolutionize minibus manufacturing",
+      "expansion": "International Expansion",
+      "expansionDesc": "Expanded operations to international markets",
+      "innovation": "Innovation Center",
+      "innovationDesc": "Opened state-of-the-art research and development facility",
+      "sustainability": "Sustainability Initiative",
+      "sustainabilityDesc": "Launched eco-friendly vehicle lineup",
+      "digital": "Digital Transformation",
+      "digitalDesc": "Implemented advanced manufacturing technologies"
+    },
+    "team": {
+      "title": "Leadership Team",
+      "subtitle": "Meet the people driving our success",
+      "member": "Team Member",
+      "name": "John Smith",
+      "position": "Chief Executive Officer"
+    }
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Fill out the form to receive a customized quote",
+    "form": {
+      "personalInfo": "Personal Information",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "country": "Country",
+      "vehicleInfo": "Vehicle Information",
+      "model": "Model",
+      "quantity": "Quantity",
+      "requirements": "Additional Requirements",
+      "message": "Your Message",
+      "submit": "Submit Request",
+      "success": "Your request has been received successfully. We will contact you soon.",
+      "error": "An error occurred. Please try again.",
+      "required": "Required field",
+      "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "phone": "Please enter a valid phone number"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "info": {
+      "address": {
+        "title": "Address",
+        "line1": "123 Industrial Zone",
+        "line2": "Manufacturing District",
+        "city": "Business City",
+        "country": "Country"
+      },
+      "phone": {
+        "title": "Phone",
+        "sales": "Sales: +1 234 567 890",
+        "support": "Support: +1 234 567 891",
+        "emergency": "Emergency: +1 234 567 892"
+      },
+      "email": {
+        "title": "Email",
+        "sales": "sales@minibus.com",
+        "support": "support@minibus.com",
+        "info": "info@minibus.com"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM",
+        "weekend": "Saturday: 9:00 AM - 2:00 PM",
+        "timezone": "Local Time"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully. We will respond soon.",
+      "error": "An error occurred. Please try again.",
+      "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "phone": "Please enter a valid phone number"
+      }
+    },
+    "locations": {
+      "title": "Our Locations",
+      "subtitle": "Find us around the world",
+      "headquarters": "Global Headquarters",
+      "manufacturing": "Manufacturing Facility",
+      "service": "Service Center"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Our support team is available around the clock",
+      "emergency": "For emergencies, call our hotline",
+      "online": "Online Support Available"
+    }
+  },
+  "news": {
+    "title": "Latest News",
+    "subtitle": "Discover our latest developments and achievements",
+    "readMore": "Read More",
+    "items": {
+      "electricModel": {
+        "title": "Launch of Electric Minibus",
+        "description": "Introducing our new eco-friendly electric minibus model, setting new standards in sustainable transportation."
+      },
+      "award": {
+        "title": "Global Excellence Award",
+        "description": "Recognized for outstanding innovation and quality in minibus manufacturing at the International Transport Awards."
+      },
+      "serviceExpansion": {
+        "title": "Service Network Expansion",
+        "description": "Expanding our service network to provide better support and maintenance coverage for our customers."
+      }
+    }
+  }
+}
